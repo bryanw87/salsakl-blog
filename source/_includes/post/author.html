@@ -1,0 +1,24 @@
+{% if post.author.name %}
+  {% assign author = post.author.name %}
+{% elsif page.author.name %}
+  {% assign author = page.author.name %}
+{% else %}
+  {% assign author = site.author %}
+{% endif %}
+{% if author %}
+  {% if post.author.twitter %}
+  	<span class="byline author vcard">by <a href="https://twitter.com/{{ post.author.twitter }}"><span class="fn">{{ author }}</span></a></span>
+  {% elsif page.author.twitter %}
+  	<span class="byline author vcard">by <a href="https://twitter.com/{{ page.author.twitter }}"><span class="fn">{{ author }}</span></a></span>
+  {% elsif post.author.gplus %}
+  	<span class="byline author vcard">by <a href="https://plus.google.com/{{ post.author.gplus }}?rel=author"><span class="fn">{{ author }}</span></a></span>
+  {% elsif page.author.gplus %}
+  	<span class="byline author vcard">by <a href="https://plus.google.com/{{ page.author.gplus }}?rel=author"><span class="fn">{{ author }}</span></a></span>
+  {% elsif site.twitter_user %}
+  	<span class="byline author vcard">by <a href="https://twitter.com/{{ site.twitter_user }}"><span class="fn">{{ author }}</span></a></span>
+  {% elsif site.googleplus_user %}
+  	<span class="byline author vcard">by <a href="https://plus.google.com/{{ site.googleplus_user }}?rel=author"><span class="fn">{{ author }}</span></a></span>
+  {% else %}
+    <span class="byline author vcard">by <span class="fn">{{ author }}</span></span>
+  {% endif %}
+{% endif %}

@@ -1,0 +1,12 @@
+<author>
+   {% if page.author.image %}<img src="/images/{{ page.author.image }}">{% endif %}
+    <p>Written by 
+    	{% if page.author.twitter %}
+    	<strong><a rel="author" href="https://twitter.com/{{ page.author.twitter }}" title="{{ page.author_name }}" target="_blank">{{ page.author.name }}</a></strong>
+    	{% else %}
+    	<strong><a rel="author" href="https://plus.google.com/{{ page.author.gplus }}?rel=author" title="{{ page.author_name }}" target="_blank">{{ page.author.name }}</a></strong>
+    	{% endif %}
+    	<br>
+    <span class="muted">{{ page.author.bio }}</span>
+    </p>
+</author>
