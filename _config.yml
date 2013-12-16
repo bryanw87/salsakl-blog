@@ -63,13 +63,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user: bryanw87
+github_user: 
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user: bryanwbh
+twitter_user: SalsaKL
 twitter_tweet_button: true
 
 # Google +1
@@ -100,4 +100,4 @@ google_analytics_tracking_id:
 facebook_like: false
 
 # Facebook User
-facebook_user: zegreatbw
+facebook_user: groups/44856655328/
