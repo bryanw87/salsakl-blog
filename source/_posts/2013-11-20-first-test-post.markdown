@@ -2,6 +2,7 @@
 layout: post
 title: "First Test Post"
 date: 2013-11-20 15:22:56 +0800
+published: false
 comments: true
 author:
   name: Bryan Wong
@@ -14,9 +15,6 @@ categories:
 - test
 - test1
 - test2
-
-
-
 ---
 Lorem ipsum Deserunt incididunt do adipisicing in tempor aliquip aute voluptate Ut sint do magna in laboris sunt in sunt exercitation cupidatat consequat consectetur officia consequat deserunt ad et anim est culpa dolore in ex est in aliquip Duis ut ut fugiat culpa ullamco consectetur nostrud aute nostrud nulla adipisicing in aute velit tempor minim ut tempor aute Ut ullamco consequat consequat do qui proident eu cupidatat cupidatat tempor officia officia dolore in et consequat quis cupidatat elit id 
 <!--more-->
