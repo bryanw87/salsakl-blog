@@ -32,7 +32,7 @@ The main intention of [SalsaKL](http://www.salsakl.com) and [this blog](http://b
 Thank you again for reading this and last but not least, keep calm and Salsa dance.
 
 <p align="center">
-	<img src="/images/posts/salsa_dancing_silhouette.gif" />
+	<img src="/images/posts/salsa_dancing_silhouette.gif" alt="Salsa Dance" />
 </p>
 
 P.S. Interested to write for SalsaKL Blog as well? Email me at <mailto:admin@salsakl.com>.
