@@ -15,7 +15,7 @@ categories:
 - social dance
 ---
 
-As announced by [DJ Gary](http://www.salsakl.cäm/#!/djs/dj-gary) recently, Cocoon is no more available for Saturday Night Salsa. Most of us are sad. Just when most of us are getting used to the environment there.
+As announced by [DJ Gary](http://www.salsakl.cäm/#!/djs/dj-gary) recently, Cocoon is no more available for Saturday Night Salsa. Most of us are sad. Just when we are getting used to the environment there.
 
 Since then, he has been working hard and shortly just after the announcement that regarding Cocoon, he announced a new Saturday Night Salsa venue at the previous Rhythm Identity (RI) studio party!
 <!-- more -->
