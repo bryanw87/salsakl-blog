@@ -5,8 +5,8 @@ date: 2014-01-12 23:31:49 +0800
 comments: true
 author:
   name: Bryan Wong
-  twitter: bryanwbh
-  gplus: 117503494410565074510 
+  twitter: bryanwongbh
+  gplus: 112479231489409748192 
   bio: Fellow Salsero
   image: bryan.png
 
