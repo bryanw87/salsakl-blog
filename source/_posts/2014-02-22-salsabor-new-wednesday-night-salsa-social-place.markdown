@@ -31,8 +31,10 @@ Details are below:
 - Time: 9:00pm until late
 - Venue: Marquee Lounge Kuala Lumpur, GL-10, BB Park, 7 Jalan 1/77, Jalan Bukit Bintang, 55100 Kuala Lumpur
 - Cover Charge:
-  - ?
-  - ?
+  - RM15 for ladies (non-alcohol drinks i.e. choice of juices, soft drinks, Evian or Perrier)
+  - RM25 for men (non-alcohol)
+  - RM35 for men (alcohol) 
+  - Per bottle order (4 pax entry) and includes promotions 
 - Parking:
 	- Jockey at RM20
 	- Federal Hotel at RM15 before 10:00pm and RM20 after
