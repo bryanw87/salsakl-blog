@@ -20,7 +20,7 @@ categories:
 Hi all Salsero y Salsera, it is great seeing so many events and social dance spaces cropping up in our dance scene recently. Viva La Salsa!
 
 This year is going to be another special one for all of you folks out there. Courtesy of [DJ Gary](http://www.salsakl.com/#!/djs/dj-gary) and [Mavis](http://www.facebook.com/mavistanlimun), SalsaLah is back for year 2014!
-
+<!--more-->
 Some of you might have joined last year's [SalsaLah 2013](http://www.facebook.com/events/398730120242789/) and it was nothing short of awesome experience!
 
 [SalsaLah 2014](http://www.facebook.com/events/211970115680231/) will be a 2 days inclusive of 2 nights of parties with performances (both local and international) and workshops! Among the instructors for this year are:
